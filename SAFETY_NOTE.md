@@ -38,7 +38,6 @@ If someone is in immediate danger of harming themselves or others:
 | **Emergency Services (EU)** | **112** | Immediate danger to life |
 | **Samaritans** | **116 123** | Emotional distress, any time, 24/7 |
 | **Childline** | **0800 1111** | Young people under 19, 24/7 |
-| **Crisis Text Line** | **Text HELLO to 85258** | Anyone in crisis, 24/7 |
 
 ## For Organisations Deploying Lighthouse
 
